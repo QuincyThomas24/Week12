@@ -1,0 +1,56 @@
+.header {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(194, 105, 42);
+    font-style: italic;
+}
+
+#getNumber {
+    font-size: 21px;
+    text-align: center;
+    background-color: rgb(194, 105, 42);
+    font-style: italic;
+
+}
+
+.inputNumberBox {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(194, 105, 42);
+}
+
+    .body {
+background-color: rgb(194, 105, 42);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
